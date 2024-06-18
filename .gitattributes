@@ -1,0 +1,9 @@
+Xception-jiegou filter=lfs diff=lfs merge=lfs -text
+framework.png filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+requirements filter=lfs diff=lfs merge=lfs -text
+CV.mp4 filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
